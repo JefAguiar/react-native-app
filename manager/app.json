@@ -1,0 +1,12 @@
+{
+  "name": "manager",
+  "displayName": "manager",
+  "firebaseConfig" : {
+    "apiKey": "AIzaSyC6gn5RobL-3-Oq3-2jJI-3Of8uQX4TZ1M",
+    "authDomain": "manager-aac71.firebaseapp.com",
+    "databaseURL": "https://manager-aac71.firebaseio.com",
+    "projectId": "manager-aac71",
+    "storageBucket": "manager-aac71.appspot.com",
+    "messagingSenderId": "275623588157"
+  }
+}
